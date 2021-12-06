@@ -1,2 +1,2 @@
 # TP apprentissage supervisé
-## Térani Luque & Thomas Ballotin
+## Terani Luque & Thomas Ballotin
